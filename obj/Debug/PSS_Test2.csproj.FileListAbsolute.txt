@@ -1,0 +1,182 @@
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.csproj.AssemblyReference.cache
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.Properties.Resources.resources
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.Window.resources
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.csproj.GenerateResource.cache
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.csproj.CoreCompileInputs.cache
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\PSS_Test2.exe.config
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\PSS_Test2.exe
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\PSS_Test2.pdb
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\OpenCvSharp.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\System.Buffers.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\System.Memory.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\System.Numerics.Vectors.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\OpenCvSharp.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\System.Buffers.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\System.Memory.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\System.Numerics.Vectors.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.csproj.CopyComplete
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Controls.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Imaging.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Math.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Video.DirectShow.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Video.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Vision.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Controls.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Imaging.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Math.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Video.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Video.DirectShow.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\AForge.Vision.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.Options.resources
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\DirectShowLib.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\DirectShowLib.pdb
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\dll\x86\OpenCvSharpExtern.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\dll\x64\OpenCvSharpExtern.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\PSS_Test2.exe.config
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\PSS_Test2.exe
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\PSS_Test2.pdb
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Controls.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Imaging.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Math.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Video.DirectShow.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Video.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Vision.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\DirectShowLib.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\OpenCvSharp.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\System.Buffers.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\System.Memory.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\System.Numerics.Vectors.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Controls.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Imaging.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Math.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Video.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Video.DirectShow.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\AForge.Vision.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\DirectShowLib.pdb
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\OpenCvSharp.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\System.Buffers.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\System.Memory.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\System.Numerics.Vectors.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Debug\Final\System.Runtime.CompilerServices.Unsafe.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\dll\x86\OpenCvSharpExtern.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\dll\x64\OpenCvSharpExtern.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\MotionCapture.exe.config
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\MotionCapture.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\MotionCapture.exe
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\MotionCapture.pdb
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Controls.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Imaging.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Math.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Video.DirectShow.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Video.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Vision.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\DirectShowLib.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\OpenCvSharp.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Buffers.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Memory.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Numerics.Vectors.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Controls.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Imaging.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Math.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Video.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Video.DirectShow.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Vision.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\DirectShowLib.pdb
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\OpenCvSharp.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Buffers.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Memory.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Numerics.Vectors.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Runtime.CompilerServices.Unsafe.xml
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\obj\Debug\MotionCapture.exe
+C:\Dev\Visual Studio\PSS_Test2\PSS_Test2\obj\Debug\MotionCapture.pdb
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\dll\x86\OpenCvSharpExtern.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\dll\x86\opencv_videoio_ffmpeg455.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\dll\x64\OpenCvSharpExtern.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\dll\x64\opencv_videoio_ffmpeg455_64.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\MotionCapture.exe.config
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\MotionCapture.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\MotionCapture.exe
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\MotionCapture.pdb
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Controls.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Imaging.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Math.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Video.DirectShow.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Video.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Vision.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\DirectShowLib.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\OpenCvSharp.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Buffers.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Memory.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Numerics.Vectors.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Controls.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Imaging.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Math.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Video.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Video.DirectShow.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\AForge.Vision.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\DirectShowLib.pdb
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\OpenCvSharp.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Buffers.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Memory.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Numerics.Vectors.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\Final\System.Runtime.CompilerServices.Unsafe.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.csproj.AssemblyReference.cache
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.csproj.SuggestedBindingRedirects.cache
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.Options.resources
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.Properties.Resources.resources
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.Window.resources
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.csproj.GenerateResource.cache
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.csproj.CoreCompileInputs.cache
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\obj\Debug\PSS_Test2.csproj.CopyComplete
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\obj\Debug\MotionCapture.exe
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\obj\Debug\MotionCapture.pdb
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\MotionCapture.exe.config
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\MotionCapture.exe
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\MotionCapture.pdb
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\MotionCapture.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Controls.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Imaging.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Math.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Video.DirectShow.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Video.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Vision.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\DirectShowLib.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\System.Buffers.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\System.Memory.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\System.Numerics.Vectors.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\System.Runtime.CompilerServices.Unsafe.dll
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Controls.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Imaging.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Math.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Video.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Video.DirectShow.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\AForge.Vision.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\DirectShowLib.pdb
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\System.Buffers.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\System.Memory.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\System.Numerics.Vectors.xml
+C:\Dev\VisualStudio\PSS_Test2\PSS_Test2\bin\Release\MotionCapture\System.Runtime.CompilerServices.Unsafe.xml
